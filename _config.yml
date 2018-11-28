@@ -1,11 +1,11 @@
 # Site settings
 author: Andrew Wester
-title: 
+title: Andrew Wester's Flatiron School Blog
 header-img: img/home-bg.png
 email: awester17@gmail.com
 copyright_name: Andrew Wester
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog for Andrew Wester, talking about experience in Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: steeznation16
 github_username:  steeznation16
